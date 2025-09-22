@@ -1,0 +1,23 @@
+{
+  "name": "atividade-avaliativa_vitor-francisco-nunes",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cls && nodemon server.js"
+  },
+  "keywords": [
+    "SENAI",
+    "MVC",
+    "SPEEDRUN"
+  ],
+  "author": "Vitor Nunes",
+  "license": "MIT",
+  "description": "Atividade avaliativa de server sobre speedrun",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
